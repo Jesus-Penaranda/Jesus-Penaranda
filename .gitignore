@@ -1,0 +1,10 @@
+# Nunca subir fotos: la cara solo vive como texto dentro de assets/*.svg
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+preview.html
+tools/__pycache__/
+_otras/
+stats_preview.html

@@ -5,5 +5,4 @@
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,c,bash,sklearn,postgres,linux,git,vscode&theme=dark&perline=10" alt="Tech stack">
 
-
 </div>
